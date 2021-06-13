@@ -1,8 +1,8 @@
 <#include "security.ftl">
 <#import "login.ftl" as login>
 
-<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-    <a class="navbar-brand" href="/">Corporate Food Checker</a>
+<nav class="navbar navbar-expand-lg navbar-dark lor_color">
+    <a class="navbar-brand" href="/">Automatic LOR Cleaner</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>

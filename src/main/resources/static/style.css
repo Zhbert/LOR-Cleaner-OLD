@@ -7,3 +7,11 @@
     z-index: 10;
     -webkit-mask-box-image: -webkit-gradient(linear, left top, left bottom, color-stop(20%,rgb(19, 18, 18)), color-stop(100%,rgba(21, 20, 20, 0)));
 }
+
+.body_main_color {
+    background-color: #89969B;
+}
+
+.lor_color {
+    background-color: #2E3436;
+}
